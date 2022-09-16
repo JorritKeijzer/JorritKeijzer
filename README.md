@@ -2,10 +2,7 @@
 
 My name is Jorrit.
 
-I code stuff that I think is cool for a living. I also love 📚, 🏋️, 🧘, 🎸, ₿.
-
-BTW, I run a small startup based in Amsterdam (but we are fully remote) called [Papyr](https://papyr.co) (Check it out if you like reading stuff online).
-
+I code cool stuff for a living.
 
 <!--
 **JorritKeijzer/JorritKeijzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
